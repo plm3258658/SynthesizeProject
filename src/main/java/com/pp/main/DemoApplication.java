@@ -1,4 +1,4 @@
-package com.pp.demo;
+package com.pp.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
